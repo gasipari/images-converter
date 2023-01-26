@@ -8,6 +8,10 @@ This script is a Node.js script that converts all PNG files in a folder and its 
 - [ImageMagick](https://imagemagick.org/)
 - [cwebp](https://developers.google.com/speed/webp/docs/cwebp)
 
+To Download Precompiled WebP utilities and library use the link below:
+
+- [https://developers.google.com/speed/webp/download (Linux, Mac & Windows)](https://developers.google.com/speed/webp/download)
+
 ## Installation
 
 1. Clone the repository or download the script
