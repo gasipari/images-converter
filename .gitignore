@@ -60,10 +60,6 @@ jspm_packages
 # Environment
 .env.*
 
-# Compiled files
-*.js
-*.js.map
-
 # Map files
 *.map
 
